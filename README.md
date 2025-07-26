@@ -54,13 +54,13 @@
 </p>
 <p align="center">
 
-  <a href="https://twitter.com/">
+  <a href="https://x.com/Meon_13">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com/in/yash-srivastava-19739a257">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_USER_ID">
+  <a href="https://discordapp.com/users/1043193708364968006">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
