@@ -41,9 +41,11 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yozora13&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yozora13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Yozora13&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Yozora13&theme=tokyonight" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yozora13&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 ---
 
