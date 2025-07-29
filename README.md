@@ -40,13 +40,11 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yozora13&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yozora13&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Yozora13&theme=tokyonight" />
 </p>
-
 ---
 
 ### 📫 Connect With Me
